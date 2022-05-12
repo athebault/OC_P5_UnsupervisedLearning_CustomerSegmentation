@@ -1,4 +1,4 @@
-# OC_Projet5: Segmenter des clients d'un site e-commerce
+# Segmenter des clients d'un site e-commerce
 Projet 5 de la formation de Data Scientist d'Openclassrooms (Mars 2022)
 
 ## Mission
